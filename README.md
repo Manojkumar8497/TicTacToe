@@ -1,6 +1,22 @@
-# TicTacToe
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Manojkumar8497/TicTacToe/master/src/assets/img/logo.png" alt="Logo" width=400 height=200>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+  <h1 align="center">Tic Tac Toe</h1>
+  <p align="center">This is an Tic Tac Toe Angular application and its developed by Angular and Nebular UI Library. This application is inspired by React Tutorial expamle.</p>
+</p>
+
+## Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manojkumar8497/TicTacToe/master/src/assets/img/demo.gif"/>
+</p>
+
+## Installation
+
+After cloning the repo, do
+```bash
+npm install
+```
 
 ## Development server
 
@@ -22,6 +38,17 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## More Updates
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Follow me on [LinkedIn](https://www.linkedin.com/in/manoj-m8497/) to get the latest update about features, code, and more. If you like this project give a star to this repo.
+
+## Thanks
+
+Thanks to all contributors and their support.
+
+If you have an idea or you want to do something, tell me or just do it!
+I'm always happy to hear your feedback!
+
+## Copyright and license
+
+Code and documentation copyright 2020 the authors. Code released under the [MIT License](https://github.com/Manojkumar8497/Simple-JS-Quiz-App/blob/master/LICENSE).
