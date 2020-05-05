@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-top:20px">
     <img src="https://raw.githubusercontent.com/Manojkumar8497/TicTacToe/master/src/assets/img/logo.png" alt="Logo" width=400 height=200>
 
   <h1 align="center">Tic Tac Toe</h1>
