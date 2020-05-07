@@ -51,4 +51,4 @@ I'm always happy to hear your feedback!
 
 ## Copyright and license
 
-Code and documentation copyright 2020 the authors. Code released under the [MIT License](https://github.com/Manojkumar8497/Simple-JS-Quiz-App/blob/master/LICENSE).
+Code and documentation copyright 2020 the authors. Code released under the [MIT License](https://github.com/Manojkumar8497/TicTacToe/blob/master/LICENSE).
